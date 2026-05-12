@@ -23,7 +23,7 @@ def preprocessing_a(text, language='eng_Latn'):
     if language == 'eng_Latn':
         # Remove stopwords
         tokens = [t for t in tokens if t not in english_stopwords]
-    tokens = [t for t in tokens if len(t) < 1]  # Remove short words
+    tokens = [t for t in tokens if len(t) > 1]  # Remove short words
     return " ".join(tokens)
 
 
@@ -34,3 +34,4 @@ train_df_combined['text_pipeline_a'] = train_df_combined.apply(
 test_df_combined['text_pipeline_a'] = test_df_combined.apply(
     lambda row: preprocessing_a(row['text'], row['language']), axis=1
 )
+

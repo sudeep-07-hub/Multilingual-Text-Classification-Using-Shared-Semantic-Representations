@@ -1,5 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from cleaning_pipeline_B import train_df_combined, test_df_combined
+from cleaning_pipeline_A import train_df_combined, test_df_combined
 
 tf_idf_vectorizer = TfidfVectorizer(
     max_features=10000,
