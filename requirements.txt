@@ -1,0 +1,6 @@
+datastes
+transformers
+scikit-learn
+pandas
+matplotlib
+nltk
