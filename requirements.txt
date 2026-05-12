@@ -2,5 +2,7 @@ datastes
 transformers
 scikit-learn
 pandas
+numpy
 matplotlib
 nltk
+torch
