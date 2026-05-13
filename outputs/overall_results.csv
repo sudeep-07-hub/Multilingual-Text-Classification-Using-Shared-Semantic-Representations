@@ -1,0 +1,5 @@
+Model,Pipeline,Accuracy (%),Macro-F1 (%)
+TF-IDF + LR,A,53.5,37.46
+TF-IDF + CNB,A,64.25,59.76
+mBERT + LR,B,69.5,65.51
+XLM-R + LR,B,80.75,77.17

@@ -1,0 +1,8 @@
+Category,TF-IDF + LR,TF-IDF + CNB,mBERT + LR,XLM-R + LR
+entertainment,0.0,33.33,55.32,58.54
+geography,11.11,68.66,59.26,87.1
+health,32.65,45.71,50.7,57.58
+politics,60.87,74.29,75.41,92.31
+science/technology,60.53,65.66,76.7,82.19
+sports,32.35,64.0,70.37,80.0
+travel,64.71,66.67,70.83,82.49

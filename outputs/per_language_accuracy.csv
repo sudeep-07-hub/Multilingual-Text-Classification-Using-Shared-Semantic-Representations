@@ -1,0 +1,5 @@
+Model,English,Hindi,Tamil,Swahili
+TF-IDF + LR,53.0,54.0,55.0,52.0
+TF-IDF + CNB,63.0,54.0,69.0,71.0
+mBERT + LR,82.0,71.0,65.0,60.0
+XLM-R + LR,86.0,82.0,81.0,74.0

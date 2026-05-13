@@ -1,0 +1,13 @@
+Language,Text,True Label,Predicted
+English,"While most cards are good for calling anywhere, some specialise in providing fav...",science/technology,travel
+English,In good conditions you will be able to cover somewhat greater distances than wal...,sports,travel
+English,"Also to the north visit the great Sanctuary of Our Lady of Fatima (Shrine), a pl...",travel,entertainment
+Hindi,एडीडी वाले बच्चों का मुशकिल समय होता है स्कूली पढ़ाई जैसी चीज़ों पर ध्यान केंद्र...,health,science/technology
+Hindi,"ये बच्चे बहुत परेशानी में पड़ते हैं, क्योंकि ये अपने दिमाग को उत्तेजित करने के लि...",health,science/technology
+Hindi,चार साल में यह मार्टेली का पांचवां सीईपी है।,politics,sports
+Tamil,வடக்கே உலக புகழ்பெற்ற மரியன் மாய தோற்றங்களின் இடமான நம்முடைய லேடி ஆஃப் ஃபாத்திமா...,travel,geography
+Tamil,"அக்கார்டியனில் அதிக ஒலியினைப் பெறுவதற்கு, நீங்கள் அதிக அழுத்தம் அல்லது வேகமுடைய ...",entertainment,science/technology
+Tamil,"ஒவ்வொரு நிகழ்ச்சியும், குழந்தைகள் நூலகத்திற்குச் செல்லும்போது அவர்கள் கவனித்துப்...",entertainment,travel
+Swahili,"Kwa kuwa maeneo hayo hayana idadi kubwa ya watu, na uchafuzi kidogo aghalabu huw...",travel,health
+Swahili,"Wakati wa barafu nyingi, barafu ya kutosha kukufanya ukwame inaweza kuanguka kwa...",travel,health
+Swahili,"Watoto walio na ADD huwa na wakati mgumu kuangazia mambo kama kazi za shuleni, l...",health,science/technology

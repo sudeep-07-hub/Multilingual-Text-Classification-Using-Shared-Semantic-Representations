@@ -1,8 +1,9 @@
-datastes
+datasets
 transformers
 scikit-learn
 pandas
 numpy
 matplotlib
+seaborn
 nltk
 torch

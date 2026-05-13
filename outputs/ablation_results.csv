@@ -1,0 +1,5 @@
+Model,Pipeline A (Aggressive),Pipeline B (Minimal),Δ (B − A)
+TF-IDF + LR,53.5,54.25,0.75
+TF-IDF + CNB,64.25,62.0,-2.25
+mBERT + LR,62.0,69.5,7.5
+XLM-R + LR,77.0,80.75,3.75
